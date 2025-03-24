@@ -1,0 +1,60 @@
+2025-03-24 07:01:42,570 - aiogram.dispatcher - INFO - Start polling
+2025-03-24 07:01:43,077 - aiogram.dispatcher - INFO - Run polling for bot @Testvpn56456bot id=7587803271 - 'Test'
+2025-03-24 07:01:49,017 - aiogram.event - INFO - Update id=292198914 is handled. Duration 599 ms by bot id=7587803271
+2025-03-24 07:02:07,828 - aiogram.event - INFO - Update id=292198915 is handled. Duration 576 ms by bot id=7587803271
+2025-03-24 07:02:16,113 - aiogram.event - INFO - Update id=292198916 is handled. Duration 539 ms by bot id=7587803271
+2025-03-24 07:02:20,131 - aiogram.event - INFO - Update id=292198917 is not handled. Duration 10 ms by bot id=7587803271
+2025-03-24 07:02:39,774 - aiogram.event - INFO - Update id=292198918 is not handled. Duration 9 ms by bot id=7587803271
+2025-03-24 07:02:47,048 - aiogram.event - INFO - Update id=292198919 is handled. Duration 565 ms by bot id=7587803271
+2025-03-24 07:02:53,193 - aiogram.event - INFO - Update id=292198920 is not handled. Duration 10 ms by bot id=7587803271
+2025-03-24 07:12:05,069 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-03-24 07:12:05,069 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7587803271)
+2025-03-24 07:12:09,618 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-03-24 07:12:09,619 - aiogram.dispatcher - INFO - Polling stopped for bot @Testvpn56456bot id=7587803271 - 'Test'
+2025-03-24 07:12:09,620 - aiogram.dispatcher - INFO - Polling stopped
+2025-03-24 07:23:08,484 - aiogram.dispatcher - INFO - Start polling
+2025-03-24 07:23:08,999 - aiogram.dispatcher - INFO - Run polling for bot @Testvpn56456bot id=7587803271 - 'Test'
+2025-03-24 07:23:12,474 - aiogram.event - INFO - Update id=292198921 is handled. Duration 3304 ms by bot id=7587803271
+2025-03-24 07:23:12,615 - aiogram.event - INFO - Update id=292198922 is handled. Duration 563 ms by bot id=7587803271
+2025-03-24 07:23:28,751 - aiogram.event - INFO - Update id=292198923 is handled. Duration 555 ms by bot id=7587803271
+2025-03-24 07:23:33,553 - aiogram.event - INFO - Update id=292198924 is handled. Duration 595 ms by bot id=7587803271
+2025-03-24 07:23:34,591 - aiogram.event - INFO - Update id=292198925 is not handled. Duration 6 ms by bot id=7587803271
+2025-03-24 07:23:47,846 - aiogram.event - INFO - Update id=292198926 is not handled. Duration 5 ms by bot id=7587803271
+2025-03-24 07:23:52,585 - aiogram.event - INFO - Update id=292198927 is handled. Duration 589 ms by bot id=7587803271
+2025-03-24 07:23:53,712 - aiogram.event - INFO - Update id=292198928 is not handled. Duration 8 ms by bot id=7587803271
+2025-03-24 07:23:59,121 - aiogram.event - INFO - Update id=292198929 is not handled. Duration 5 ms by bot id=7587803271
+2025-03-24 07:26:17,593 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-03-24 07:26:17,593 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7587803271)
+2025-03-24 07:26:19,051 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7587803271)
+2025-03-24 07:26:19,070 - aiogram.event - INFO - Update id=292198930 is not handled. Duration 15 ms by bot id=7587803271
+2025-03-24 07:37:48,753 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-03-24 07:37:48,753 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7587803271)
+2025-03-24 07:37:53,541 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-03-24 07:37:53,542 - aiogram.dispatcher - INFO - Polling stopped for bot @Testvpn56456bot id=7587803271 - 'Test'
+2025-03-24 07:37:53,543 - aiogram.dispatcher - INFO - Polling stopped
+2025-03-24 08:36:04,776 - aiogram.dispatcher - INFO - Start polling
+2025-03-24 08:36:05,292 - aiogram.dispatcher - INFO - Run polling for bot @Testvpn56456bot id=7587803271 - 'Test'
+2025-03-24 08:36:14,711 - aiogram.event - INFO - Update id=292198931 is handled. Duration 608 ms by bot id=7587803271
+2025-03-24 08:36:25,980 - aiogram.event - INFO - Update id=292198932 is handled. Duration 562 ms by bot id=7587803271
+2025-03-24 08:36:33,902 - aiogram.event - INFO - Update id=292198933 is handled. Duration 551 ms by bot id=7587803271
+2025-03-24 08:36:46,244 - aiogram.event - INFO - Update id=292198934 is handled. Duration 279 ms by bot id=7587803271
+2025-03-24 08:37:00,563 - aiogram.event - INFO - Update id=292198935 is handled. Duration 514 ms by bot id=7587803271
+2025-03-24 08:37:11,663 - aiogram.event - INFO - Update id=292198936 is handled. Duration 536 ms by bot id=7587803271
+2025-03-24 08:37:15,579 - aiogram.event - INFO - Update id=292198937 is not handled. Duration 11 ms by bot id=7587803271
+2025-03-24 08:47:05,849 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-03-24 08:47:05,849 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7587803271)
+2025-03-24 08:47:17,294 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7587803271)
+2025-03-24 08:50:21,700 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-03-24 08:50:21,701 - aiogram.dispatcher - INFO - Polling stopped for bot @Testvpn56456bot id=7587803271 - 'Test'
+2025-03-24 08:50:21,701 - aiogram.dispatcher - INFO - Polling stopped
+2025-03-24 08:50:52,565 - aiogram.dispatcher - INFO - Start polling
+2025-03-24 08:50:53,053 - aiogram.dispatcher - INFO - Run polling for bot @Testvpn56456bot id=7587803271 - 'Test'
+2025-03-24 08:51:01,374 - aiogram.event - INFO - Update id=292198938 is handled. Duration 589 ms by bot id=7587803271
+2025-03-24 08:51:18,652 - aiogram.event - INFO - Update id=292198939 is handled. Duration 688 ms by bot id=7587803271
+2025-03-24 08:51:26,721 - aiogram.event - INFO - Update id=292198940 is handled. Duration 524 ms by bot id=7587803271
+2025-03-24 08:51:30,636 - aiogram.event - INFO - Update id=292198941 is not handled. Duration 11 ms by bot id=7587803271
+2025-03-24 08:54:54,133 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-03-24 08:54:54,133 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7587803271)
+2025-03-24 08:54:59,886 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-03-24 08:54:59,888 - aiogram.dispatcher - INFO - Polling stopped for bot @Testvpn56456bot id=7587803271 - 'Test'
+2025-03-24 08:54:59,889 - aiogram.dispatcher - INFO - Polling stopped
