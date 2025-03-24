@@ -1,3 +1,4 @@
+import httpx
 
 async def create_payment(amount, description):
     # Возвращаем заглушку вместо реальной оплаты
