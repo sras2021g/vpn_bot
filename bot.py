@@ -1,7 +1,6 @@
 import asyncio
-import uuid
 import logging
-from datetime import datetime, timedelta
+from datetime import datetime
 from aiogram import Bot, Dispatcher, types, F
 from aiogram.enums import ParseMode
 from aiogram.filters import Command
@@ -10,11 +9,10 @@ from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from dotenv import load_dotenv
 import os
 from database import Database
-from payment_handler import create_payment, check_payment_status
+from payment_handler import create_payment
 from vless_generator import generate_key, get_expiration_date
 from referral_system import generate_referral_link, get_referral_info
 from admin_panel import get_admin_menu, get_servers_menu, get_prices_menu
-from server_manager import configure_server
 
 # ��агружаем переменные из .env
 load_dotenv()
